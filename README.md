@@ -1,5 +1,8 @@
-[![GitHub Repo Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Repo%20Views&query=total_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FMongaDev%2Fmonga-server-data)](https://github.com/MongaDev/monga-server-data)
-[![Last GitHub Action](https://img.shields.io/github/workflow/status/MongaDev/monga-server-data/Backup%20Game%20Saves?label=Last%20Action&logo=github)](https://github.com/MongaDev/monga-server-data/actions)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pobruno/monga-server-data)
+[![GitHub repo size](https://img.shields.io/github/repo-size/pobruno/monga-server-data?label=monga-server-data&logo=git&logoColor=orang)](https://github.com/pobruno/monga-server-data)
+![GitHub top language](https://img.shields.io/github/languages/top/pobruno/monga-server-data?logo=docker)
+![GitHub language count](https://img.shields.io/github/languages/count/pobruno/monga-server-data)
+![GitHub issues](https://img.shields.io/github/issues/pobruno/monga-server-data?logo=github)
 
 # Monga Server Data
 

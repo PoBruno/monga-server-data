@@ -6,7 +6,7 @@
 
 # Monga Server Data
 
-Repository for storing backups of game saves. Each game server's saves are mapped to specific folders within this repository. Backups are triggered through GitHub Actions on push events.
+Repository for storing backups of game saves of repo [moga-server-handle](https://github.com/pobruno/moga-server-handle). Each game server's saves are mapped to specific folders within this repository. Backups are triggered through GitHub Actions on push events.
 
 ## Supported Games:
 - Minecraft

@@ -3,6 +3,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/pobruno/monga-server-data?logo=docker)
 ![GitHub language count](https://img.shields.io/github/languages/count/pobruno/monga-server-data)
 ![GitHub issues](https://img.shields.io/github/issues/pobruno/monga-server-data?logo=github)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpobruno%2Fmonga-server-data.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpobruno%2Fmonga-server-data?ref=badge_shield)
 
 # Monga Server Data
 
@@ -48,3 +49,7 @@ Repository for storing automated backups of game saves triggered by GitHub Actio
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpobruno%2Fmonga-server-data.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpobruno%2Fmonga-server-data?ref=badge_large)
